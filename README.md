@@ -1,7 +1,14 @@
 - 👋 Olá, ISAAC aqui - @error404isaac
-- atualmente estou concluindo o curso de Sistemas de Informação na Universidade Federal do Pará.
-Desde 2016 tenho absoluta certeza de que eu quero seguir essa área na minha vida, sempre fui fã de tecnologia em geral, sou muito aplicado quando quero aprender algo e tenho facilidade de aprendizado, sou autodidata, estudo inglês desde o final da infância por conta própria e tenho um nível intermediário hoje em dia, aprendi Java aos 17 anos, pouco antes de iniciar o curso de técnico em informática onde pude dar continuidade ao aprendizado, sou bastante curioso e sempre estou buscando aprender coisas novas, sou uma pessoa adaptável a diversos tipos de cenários, tenho grande senso de trabalho em equipe e de divisão de tarefas e competências.
-Estou procurando uma oportunidade para usar minhas habilidades e experiência para ajudar uma empresa a atingir seus objetivos. Sou um profissional motivado e orientado para resultados, e estou confiante de que posso fazer uma contribuição significativa para sua equipe.
+- atualmente estou concluindo o curso de **Sistemas de Informação** na *Universidade Federal do Pará*.
+Desde 2016 tenho absoluta certeza de que eu quero seguir essa área na minha vida, sempre fui fã de tecnologia em geral.
+Estou procurando uma *oportunidade* para usar minhas *habilidades* e *experiência* para ajudar uma empresa a atingir seus objetivos. Sou um profissional **motivado** e **orientado para resultados**, e estou confiante de que posso fazer uma contribuição significativa para sua equipe.
+Atualmente sou desenvolvedor freelancer full stack e trabalho com as seguintes linguagens:
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css"/>
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
 <!---
 error404isaac/error404isaac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
