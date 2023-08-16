@@ -1,4 +1,4 @@
-<h1>👋 Olá, ISAAC aqui </h1>
+<h1>👋 Olá, ISAAC aqui, </h1>
 - atualmente estou concluindo o curso de **Sistemas de Informação** na *Universidade Federal do Pará*.
 Desde 2016 tenho absoluta certeza de que eu quero seguir essa área na minha vida, sempre fui fã de tecnologia em geral.
 Estou procurando uma *oportunidade* para usar minhas *habilidades* e *experiência* para ajudar uma empresa a atingir seus objetivos. Sou um profissional **motivado** e **orientado para resultados**, e estou confiante de que posso fazer uma contribuição significativa para sua equipe.
