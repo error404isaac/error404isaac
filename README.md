@@ -16,7 +16,7 @@
    </div>
    <div>
      <div>
-       <h2>Ferramentas que eu uso atualmente:</h2>
+       <h2>Tecnologias que eu uso atualmente:</h2>
      </div>
      <div align="center">
        <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
