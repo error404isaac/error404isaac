@@ -1,6 +1,34 @@
-<h1>👋 Olá, ISAAC aqui, </h1>
-- atualmente estou concluindo o curso de **Sistemas de Informação** na *Universidade Federal do Pará*.
-Desde 2016 tenho absoluta certeza de que eu quero seguir essa área na minha vida, sempre fui fã de tecnologia em geral.
-Estou procurando uma *oportunidade* para usar minhas *habilidades* e *experiência* para ajudar uma empresa a atingir seus objetivos. Sou um profissional **motivado** e **orientado para resultados**, e estou confiante de que posso fazer uma contribuição significativa para sua equipe.
-Atualmente sou desenvolvedor freelancer full stack e trabalho com as seguintes linguagens:
-<br> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<div>
+  <h1 align="center">👋 Olá, eu sou o ISAAC 🧑🏽‍💻</h1>
+  <h3 align="center">Abaixo você confere um resumo do meu perfil</h3>
+</div>
+ <div>
+  <div align="center">
+   <a href="https://github.com/error404isaac/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=error404isaac&theme=apprentice&bg_color=00000000&show_icons=true" />
+  </a>
+  <a href="https://github.com/error404isaac/convoychat">
+   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=error404isaac&layout=donut&theme=apprentice&bg_color=00000000" />
+  </a>
+ </div>
+   <div>
+     <h2>Sobre mim ✌️</h2>
+     <p align="justify">Atualmente estou concluindo o curso de <strong>Sistemas de Informação</strong> na <i>Universidade Federal do Pará</i>, com o grau de Bacharelado. No curso tive a oportunidade de trabalhar com diversas linguagens de progrmação, incluindo: Java, C, PHP, JavaScript, e as linguagens de marcação e estilização HTML e CSS.</br>Participei de alguns projetos no Laboratório de Abordagens de Ensino Focadas no Aluno (LAFocA), onde oude colocar em prática alguns conhecimentos adquiridos no curso e foi de suma importância, pois lá colocávamos em prática metodologias usadas no mercado de trabalho, como o Scrum e Kamban.</br>Estou procurando uma oportunidade em uma empresa para empregar todo meu conhecimento adquirido até aqui e ajudar a empresa a crescer, e ter a oportunidade de construir carreira na empresa.</p>
+   </div>
+   <div>
+     <div>
+       <h2>Ferramentas que eu uso atualmente:</h2>
+     </div>
+     <div align="center">
+       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+   </div>
+</div>
