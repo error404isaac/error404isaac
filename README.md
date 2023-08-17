@@ -1,6 +1,5 @@
 <div>
   <h1 align="center">👋 Olá, eu sou o ISAAC 🧑🏽‍💻</h1>
-  <h3 align="center">Abaixo você confere um resumo do meu perfil</h3>
 </div>
  <div>
   <div align="center">
