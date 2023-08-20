@@ -12,7 +12,13 @@
  </div>
    <div>
      <h2>Sobre mim ✌️</h2>
-     <p align="justify">Atualmente estou concluindo o curso de <strong>Sistemas de Informação</strong> na <i>Universidade Federal do Pará</i>, com o grau de Bacharelado. No curso tive a oportunidade de trabalhar com diversas linguagens de progrmação, incluindo: Java, C, PHP, JavaScript, e as linguagens de marcação e estilização HTML e CSS.</br>Participei de alguns projetos no Laboratório de Abordagens de Ensino Focadas no Aluno (LAFocA), onde oude colocar em prática alguns conhecimentos adquiridos no curso e foi de suma importância, pois lá colocávamos em prática metodologias usadas no mercado de trabalho, como o Scrum e Kamban.</br>Estou procurando uma oportunidade em uma empresa para empregar todo meu conhecimento adquirido até aqui e ajudar a empresa a crescer, e ter a oportunidade de construir carreira na empresa.</p>
+     <p align="justify">Sou um desenvolvedor de software com foco em programação e modelagem de banco de dados. Estou concluindo o curso de Sistemas de Informação na Universidade Federal do Pará e tenho experiência como freelancer, desenvolvendo softwares e melhorando códigos desde 2022. Sou apaixonado por tecnologia e sempre estou em busca de novas oportunidades para aprender e crescer.</br>Habilidades:
+• Programação: Java, PHP, JavaScript, HTML5, CSS3, Spring, React;
+• Metodologias ágeis: Sprint, Scrum, Kanban;
+• Banco de dados: MySQL, PostgreSQL;
+• DevOps: Git, GitHub;
+• Ferramentas de desenvolvimento: NetBeans, Eclipse, VS Code.
+• Soft Skills: Adaptabilidade, auto aprendizagem, comunicação, confiante, forte senso de ética, organização, proatividade, racional, responsável, trabalho em equipe.</p>
    </div>
    <div>
      <div>
