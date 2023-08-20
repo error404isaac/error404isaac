@@ -12,13 +12,7 @@
  </div>
    <div>
      <h2>Sobre mim ✌️</h2>
-     <p align="justify">Sou um desenvolvedor de software com foco em programação e modelagem de banco de dados. Estou concluindo o curso de Sistemas de Informação na Universidade Federal do Pará e tenho experiência como freelancer, desenvolvendo softwares e melhorando códigos desde 2022. Sou apaixonado por tecnologia e sempre estou em busca de novas oportunidades para aprender e crescer.</br>Habilidades:
-• Programação: Java, PHP, JavaScript, HTML5, CSS3, Spring, React;
-• Metodologias ágeis: Sprint, Scrum, Kanban;
-• Banco de dados: MySQL, PostgreSQL;
-• DevOps: Git, GitHub;
-• Ferramentas de desenvolvimento: NetBeans, Eclipse, VS Code.
-• Soft Skills: Adaptabilidade, auto aprendizagem, comunicação, confiante, forte senso de ética, organização, proatividade, racional, responsável, trabalho em equipe.</p>
+     <p align="justify">Sou um desenvolvedor de software com foco em programação e modelagem de banco de dados. Estou concluindo o curso de Sistemas de Informação na Universidade Federal do Pará e tenho experiência como freelancer, desenvolvendo softwares e melhorando códigos desde 2022. Sou apaixonado por tecnologia e sempre estou em busca de novas oportunidades para aprender e crescer.</br>Habilidades:</br>• Programação: Java, PHP, JavaScript, HTML5, CSS3, Spring, React;</br>• Metodologias ágeis: Sprint, Scrum, Kanban;</br>• Banco de dados: MySQL, PostgreSQL;</br>• DevOps: Git, GitHub;</br>• Ferramentas de desenvolvimento: NetBeans, Eclipse, VS Code.</br>• Soft Skills: Adaptabilidade, auto aprendizagem, comunicação, confiante, forte senso de ética, organização, proatividade, racional, responsável, trabalho em equipe.</p>
    </div>
    <div>
      <div>
